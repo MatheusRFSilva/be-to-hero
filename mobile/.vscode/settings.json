@@ -1,0 +1,5 @@
+{
+    "editor.suggest.showStructs": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.wordBasedSuggestions": false
+}
